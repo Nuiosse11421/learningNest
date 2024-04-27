@@ -6,6 +6,6 @@ export class AppService {
     return 'Hello World!';
   }
   getWorld():string{
-    return 'Test uss this function'
+    return 'Test use this function'
   }
 }
