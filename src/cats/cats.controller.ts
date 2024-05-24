@@ -1,5 +1,4 @@
 import { Controller,Get, Body,Post } from "@nestjs/common";
-import { CatsService } from "./cats.service";
 @Controller('cats')
 export class CatsController {
     @Post()
